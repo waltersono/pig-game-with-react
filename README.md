@@ -50,4 +50,4 @@ The app should be able to:
 
 ## Acknowledgments
 
-Want to give credit to [Jonas][https://jonas.io/] for the elegant css design of this game, without him the game would be as attractive as it is.
+Want to give credit to [Jonas](https://jonas.io/) for the elegant css design of this game, without him the game would not be as attractive as it is.
