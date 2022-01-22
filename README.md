@@ -46,7 +46,7 @@ The app should be able to:
 
 ## Author
 
-- LinkedIn - [Walter Sono](https://www.linkedin/in/waltersono.com)
+- LinkedIn - [Walter Sono](https://www.linkedin,com/in/waltersono.com)
 
 ## Acknowledgments
 
