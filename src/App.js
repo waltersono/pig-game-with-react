@@ -87,7 +87,7 @@ const reducer = (state, action) => {
 };
 
 const didPlayerWin = (state, previousPlayer) => {
-  return state.score[previousPlayer] >= 20;
+  return state.score[previousPlayer] >= 50;
 };
 
 const App = () => {
