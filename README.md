@@ -17,8 +17,8 @@ This is a small game created with _Create React App_.
 
 ### Links
 
-- Solution URL: [SOURCE PROJECT](https://your-solution-url.com)
-- Live Site URL: [LIVE DEMO](https://your-live-site-url.com)
+- Solution URL: [SOURCE PROJECT](https://github.com/waltersono/pig-game-with-react)
+- Live Site URL: [LIVE DEMO](https://waltersono.github.io/pig-game-with-react/)
 
 ### The challenge
 
